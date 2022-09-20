@@ -1,0 +1,19 @@
+{
+  "name": "progimage-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://cs17@github.com/cs17/progImage-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs17/progImage-tools/issues"
+  },
+  "homepage": "https://github.com/cs17/progImage-tools#readme"
+}
