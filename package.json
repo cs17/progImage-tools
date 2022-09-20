@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cs17/progImage-tools/issues"
   },
-  "homepage": "https://github.com/cs17/progImage-tools#readme"
+  "homepage": "https://github.com/cs17/progImage-tools#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1219.0"
+  }
 }
